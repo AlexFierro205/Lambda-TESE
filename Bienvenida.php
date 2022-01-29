@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Blooger</title>
+    <title>Lambda TESE</title>
 
     <!-- Font Awesome Icons -->
     <link rel="stylesheet" href="./css/all.css">
@@ -30,7 +30,7 @@
     <nav class="nav">
         <div class="nav-menu flex-row">
             <div class="nav-brand">
-                <a href="#" class="text-gray">Blooger</a>
+                <a href="#" class="text-gray">LAMBDA/TESE</a>
             </div>
             <div class="toggle-collapse">
                 <div class="toggle-icons">
@@ -61,6 +61,7 @@
                 <a href="#"><i class="fab fa-instagram"></i></a>
                 <a href="#"><i class="fab fa-twitter"></i></a>
                 <a href="#"><i class="fab fa-youtube"></i></a>
+                <a href="#"><i class="fab fa-discord"></i></a>
             </div>
         </div>
     </nav>
