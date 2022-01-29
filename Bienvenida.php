@@ -30,7 +30,7 @@
     <nav class="nav">
         <div class="nav-menu flex-row">
             <div class="nav-brand">
-                <a href="#" class="text-gray">LAMBDA/TESE</a>
+                <a href="#" class="text-gray">LAMBDA/TESE<i class="fab fa-microsoft"></i> </a>
             </div>
             <div class="toggle-collapse">
                 <div class="toggle-icons">
@@ -76,8 +76,8 @@
 
         <section class="site-title">
             <div class="site-background" data-aos="fade-up" data-aos-delay="100">
-                <h3>Tours & Travels</h3>
-                <h1>Amazing Place on Earth</h1>
+                <h3>Campus TESE</h3>
+                <h1>LAMBDA CLUB TESE</h1>
                 <button class="btn">Explore</button>
             </div>
         </section>
