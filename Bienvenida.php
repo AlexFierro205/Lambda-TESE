@@ -168,12 +168,10 @@
                         </div>
                         <div class="post-title">
                             <a href="#">¿Que es LAMBDA?</a>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque voluptas deserunt beatae
-                                adipisci iusto totam placeat corrupti ipsum, tempora magnam incidunt aperiam tenetur a
-                                nobis, voluptate, numquam architecto fugit. Eligendi quidem ipsam ducimus minus magni
-                                illum similique veniam tempore unde?
+                            <p>Este proyecto surge a partir del interés de los estudiantes por tener espacios
+                                en dónde se pueda compartir el conocimiento.
                             </p>
-                            <button class="btn post-btn">Read More &nbsp; <i class="fas fa-arrow-right"></i></button>
+                            <button class="btn post-btn">Ver más &nbsp; <i class="fas fa-arrow-right"></i></button>
                         </div>
                     </div>
                     <hr>
