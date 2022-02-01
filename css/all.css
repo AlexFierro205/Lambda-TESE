@@ -2322,6 +2322,9 @@ readers do not read off random characters that represent icons */
 .fa-korvue:before {
   content: "\f42f"; }
 
+.fa-lambda::before{
+  content: "\f66e"; }
+
 .fa-landmark:before {
   content: "\f66f"; }
 

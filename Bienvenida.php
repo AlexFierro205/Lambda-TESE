@@ -30,7 +30,7 @@
     <nav class="nav">
         <div class="nav-menu flex-row">
             <div class="nav-brand">
-                <a href="#" class="text-gray">LAMBDA/TESE<i class="fab fa-microsoft"></i> </a>
+                <a href="#" class="text-gray">LAMBDA/TESE<i class="fab fa-lambda"></i> </a>
             </div>
             <div class="toggle-collapse">
                 <div class="toggle-icons">
@@ -57,12 +57,12 @@
                 </ul>
             </div>
             <div class="social text-gray">
-                <a href="#"><i class="fab fa-facebook-f"></i></a>
                 <a href="#"><i class="fab fa-instagram"></i></a>
+                <a href="#"><i class="fab fa-facebook-f"></i></a>
                 <a href="#"><i class="fab fa-instagram"></i></a>
                 <a href="#"><i class="fab fa-twitter"></i></a>
                 <a href="#"><i class="fab fa-youtube"></i></a>
-                <a href="#"><i class="fab fa-discord"></i></a>
+                <a href="https://discord.gg/EDqtgKW4vU"><i class="fab fa-discord"></i></a>
             </div>
         </div>
     </nav>
@@ -158,17 +158,16 @@
                     <div class="post-content" data-aos="zoom-in" data-aos-delay="200">
                         <div class="post-image">
                             <div>
-                                <img src="./assets/Blog-post/blog1.png" class="img" alt="blog1">
+                                <img src="./assets/Blog-post/lambda.jfif" class="img" alt="blog1">
                             </div>
                             <div class="post-info flex-row">
-                                <span><i class="fas fa-user text-gray"></i>&nbsp;&nbsp;Admin</span>
-                                <span><i class="fas fa-calendar-alt text-gray"></i>&nbsp;&nbsp;January 14, 2019</span>
-                                <span>2 Commets</span>
+                                <span><i class="fas fa-lambda text-gray"></i>&nbsp;&nbsp;LAMBDA</span>
+                                <span><i class="fas fa-calendar-alt text-gray"></i>&nbsp;&nbsp;Noviembre 26, 2021</span>
+                                <span>Campus TESE</span>
                             </div>
                         </div>
                         <div class="post-title">
-                            <a href="#">Why should boys have all the fun? it's the women who are making india an
-                                alcohol-loving contry</a>
+                            <a href="#">¿Que es LAMBDA?</a>
                             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque voluptas deserunt beatae
                                 adipisci iusto totam placeat corrupti ipsum, tempora magnam incidunt aperiam tenetur a
                                 nobis, voluptate, numquam architecto fugit. Eligendi quidem ipsam ducimus minus magni
@@ -254,7 +253,7 @@
                 </div>
                 <aside class="sidebar">
                     <div class="category">
-                        <h2>Category</h2>
+                        <h2>Categoria</h2>
                         <ul class="category-list">
                             <li class="list-items" data-aos="fade-left" data-aos-delay="100">
                                 <a href="#">Software</a>
