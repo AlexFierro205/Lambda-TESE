@@ -244,19 +244,19 @@
                                 <span>(05)</span>
                             </li>
                             <li class="list-items" data-aos="fade-left" data-aos-delay="200">
-                                <a href="#">Techonlogy</a>
+                                <a href="#">Tecnologia</a>
                                 <span>(02)</span>
                             </li>
                             <li class="list-items" data-aos="fade-left" data-aos-delay="300">
-                                <a href="#">Lifestyle</a>
+                                <a href="#">Estilo de Vida</a>
                                 <span>(07)</span>
                             </li>
                             <li class="list-items" data-aos="fade-left" data-aos-delay="400">
-                                <a href="#">Shopping</a>
+                                <a href="#">Compras</a>
                                 <span>(01)</span>
                             </li>
                             <li class="list-items" data-aos="fade-left" data-aos-delay="500">
-                                <a href="#">Food</a>
+                                <a href="#">Comida</a>
                                 <span>(08)</span>
                             </li>
                         </ul>
