@@ -30,7 +30,7 @@
     <nav class="nav">
         <div class="nav-menu flex-row">
             <div class="nav-brand">
-                <a href="#" class="text-gray">LAMBDA/TESE<i class="far fa-lambda"></i> </a>
+                <a href="Bienvenida.php" class="text-gray">LAMBDA/TESE<i class="far fa-lambda"></i> </a>
             </div>
             <div class="toggle-collapse">
                 <div class="toggle-icons">
@@ -40,13 +40,13 @@
             <div>
                 <ul class="nav-items">
                     <li class="nav-link">
-                        <a href="#">Home</a>
+                        <a href="#">INICIO</a>
                     </li>
                     <li class="nav-link">
-                        <a href="#">Category</a>
+                        <a href="#">CURSOS</a>
                     </li>
                     <li class="nav-link">
-                        <a href="#">Archive</a>
+                        <a href="#">ACTIVIDADES</a>
                     </li>
                     <li class="nav-link">
                         <a href="#">Pages</a>
@@ -75,7 +75,7 @@
 
         <!------------------------ Site Title ---------------------->
 
-        <section class="site-title">
+        <section id="INICIO" class="site-title">
             <div class="site-background" data-aos="fade-up" data-aos-delay="100">
                 <h3>Campus TESE</h3>
                 <h1>LAMBDA CLUB<i class="fab fa-lambda"></i></h1>
@@ -90,7 +90,7 @@
         <section>
             <div class="blog">
                 <div class="container">
-                    <div class="owl-carousel owl-theme blog-post">
+                    <div id="Cursos" class="owl-carousel owl-theme blog-post">
                         <div class="blog-content" data-aos="fade-right" data-aos-delay="200">
                             <img src="./assets/Blog-post/Logica y Algoritmos.jpg" alt="post-1">
                             <div class="blog-title">
@@ -230,7 +230,7 @@
                             </div>
                         </div>
                         <div class="post-title">
-                            <a href="#">New data recording system to better analyse road accidents</a>
+                            <a href="#">¿Que nos interesa del TESE?</a>
                             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque voluptas deserunt beatae
                                 adipisci iusto totam placeat corrupti ipsum, tempora magnam incidunt aperiam tenetur a
                                 nobis, voluptate, numquam architecto fugit. Eligendi quidem ipsam ducimus minus magni
@@ -249,27 +249,35 @@
                 </div>
                 <aside class="sidebar">
                     <div class="category">
-                        <h2>Categoria</h2>
+                        <h2>Actividades</h2>
                         <ul class="category-list">
                             <li class="list-items" data-aos="fade-left" data-aos-delay="100">
-                                <a href="#">Software</a>
-                                <span>(05)</span>
+                                <span>(01)</span>
+                                <a href="#">Charlas EStudiantiles</a>
                             </li>
                             <li class="list-items" data-aos="fade-left" data-aos-delay="200">
-                                <a href="#">Tecnologia</a>
                                 <span>(02)</span>
+                                <a href="#">Invitados Especiales</a>
                             </li>
                             <li class="list-items" data-aos="fade-left" data-aos-delay="300">
-                                <a href="#">Estilo de Vida</a>
-                                <span>(07)</span>
+                                <span>(03)</span>
+                                <a href="#">Seminarios</a>
                             </li>
                             <li class="list-items" data-aos="fade-left" data-aos-delay="400">
-                                <a href="#">Compras</a>
-                                <span>(01)</span>
+                                <span>(04)</span>
+                                <a href="#">Cursos</a>
                             </li>
                             <li class="list-items" data-aos="fade-left" data-aos-delay="500">
+                                <span>(05)</span>
+                                <a href="#">Talleres gratuitos</a>
+                            </li>
+                            <li class="list-items" data-aos="fade-left" data-aos-delay="500">
+                                <span>(06)</span>
+                                <a href="#">Certificaciones</a>
+                            </li>
+                            <li class="list-items" data-aos="fade-left" data-aos-delay="500">
+                                <span>(07)</span>
                                 <a href="#">Comida</a>
-                                <span>(08)</span>
                             </li>
                         </ul>
                     </div>
@@ -359,16 +367,14 @@
                         </div>
                     </div>
                     <div class="popular-tags">
-                        <h2>Popular Tags</h2>
+                        <h2>Escuelas Participantes</h2>
                         <div class="tags flex-row">
-                            <span class="tag" data-aos="flip-up" data-aos-delay="100">Software</span>
-                            <span class="tag" data-aos="flip-up" data-aos-delay="200">technology</span>
-                            <span class="tag" data-aos="flip-up" data-aos-delay="300">travel</span>
-                            <span class="tag" data-aos="flip-up" data-aos-delay="400">illustration</span>
-                            <span class="tag" data-aos="flip-up" data-aos-delay="500">design</span>
-                            <span class="tag" data-aos="flip-up" data-aos-delay="600">lifestyle</span>
-                            <span class="tag" data-aos="flip-up" data-aos-delay="700">love</span>
-                            <span class="tag" data-aos="flip-up" data-aos-delay="800">project</span>
+                            <span class="tag" data-aos="flip-up" data-aos-delay="100">Ingenieria, UNAM</span>
+                            <span class="tag" data-aos="flip-up" data-aos-delay="200">Química, UNAM</span>
+                            <span class="tag" data-aos="flip-up" data-aos-delay="300">Ciencias, UNAM</span>
+                            <span class="tag" data-aos="flip-up" data-aos-delay="400">UPIITA, IPN</span>
+                            <span class="tag" data-aos="flip-up" data-aos-delay="500">UANL</span>
+                            <span class="tag" data-aos="flip-up" data-aos-delay="600">ESCOM, IPN</span>
                         </div>
                     </div>
                 </aside>
