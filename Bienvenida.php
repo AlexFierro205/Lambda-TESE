@@ -59,6 +59,7 @@
             <div class="social text-gray">
                 <a href="#"><i class="fab fa-facebook-f"></i></a>
                 <a href="#"><i class="fab fa-instagram"></i></a>
+                <a href="#"><i class="fab fa-instagram"></i></a>
                 <a href="#"><i class="fab fa-twitter"></i></a>
                 <a href="#"><i class="fab fa-youtube"></i></a>
                 <a href="#"><i class="fab fa-discord"></i></a>
@@ -93,33 +94,49 @@
                         <div class="blog-content" data-aos="fade-right" data-aos-delay="200">
                             <img src="./assets/Blog-post/post-1.jpg" alt="post-1">
                             <div class="blog-title">
-                                <h3>London Fashion week's continued the evolution</h3>
-                                <button class="btn btn-blog">Fashion</button>
-                                <span>2 minutes</span>
+                                <h3>Logica y Algoritmos</h3>
+                                <button class="btn btn-blog">Explore</button>
+                                <span>1er Semestre</span>
                             </div>
                         </div>
                         <div class="blog-content" data-aos="fade-in" data-aos-delay="200">
                             <img src="./assets/Blog-post/post-3.jpg" alt="post-1">
                             <div class="blog-title">
-                                <h3>London Fashion week's continued the evolution</h3>
-                                <button class="btn btn-blog">Fashion</button>
-                                <span>2 minutes</span>
+                                <h3>Introducción a Java</h3>
+                                <button class="btn btn-blog">Explore</button>
+                                <span>1er Semestre</span>
                             </div>
                         </div>
                         <div class="blog-content" data-aos="fade-left" data-aos-delay="200">
                             <img src="./assets/Blog-post/post-2.jpg" alt="post-1">
                             <div class="blog-title">
-                                <h3>London Fashion week's continued the evolution</h3>
-                                <button class="btn btn-blog">Fashion</button>
-                                <span>2 minutes</span>
+                                <h3>Álgebra de boole</h3>
+                                <button class="btn btn-blog">Explore</button>
+                                <span>1er Semestre</span>
                             </div>
                         </div>
                         <div class="blog-content" data-aos="fade-right" data-aos-delay="200">
                             <img src="./assets/Blog-post/post-5.png" alt="post-1">
                             <div class="blog-title">
-                                <h3>London Fashion week's continued the evolution</h3>
-                                <button class="btn btn-blog">Fashion</button>
-                                <span>2 minutes</span>
+                                <h3>Introduccion Java</h3>
+                                <button class="btn btn-blog">Explore</button>
+                                <span>2do Semestre</span>
+                            </div>
+                        </div>
+                        <div class="blog-content" data-aos="fade-right" data-aos-delay="200">
+                            <img src="./assets/Blog-post/post-5.png" alt="post-1">
+                            <div class="blog-title">
+                                <h3>POO en Java</h3>
+                                <button class="btn btn-blog">Explore</button>
+                                <span>2do Semestre</span>
+                            </div>
+                        </div>
+                        <div class="blog-content" data-aos="fade-right" data-aos-delay="200">
+                            <img src="./assets/Blog-post/post-5.png" alt="post-1">
+                            <div class="blog-title">
+                                <h3>Metodologias Agiles</h3>
+                                <button class="btn btn-blog">Explore</button>
+                                <span>2do Semestre</span>
                             </div>
                         </div>
                     </div>
