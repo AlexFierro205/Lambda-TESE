@@ -30,7 +30,7 @@
     <nav class="nav">
         <div class="nav-menu flex-row">
             <div class="nav-brand">
-                <a href="#" class="text-gray">LAMBDA/TESE<i class="fab fa-lambda"></i> </a>
+                <a href="#" class="text-gray">LAMBDA/TESE<i class="far fa-lambda"></i> </a>
             </div>
             <div class="toggle-collapse">
                 <div class="toggle-icons">
@@ -78,7 +78,7 @@
         <section class="site-title">
             <div class="site-background" data-aos="fade-up" data-aos-delay="100">
                 <h3>Campus TESE</h3>
-                <h1>LAMBDA CLUB TESE</h1>
+                <h1>LAMBDA CLUB<i class="fab fa-lambda"></i></h1>
                 <button class="btn">Explore</button>
             </div>
         </section>
