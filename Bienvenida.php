@@ -178,45 +178,43 @@
                     <div class="post-content" data-aos="zoom-in" data-aos-delay="200">
                         <div class="post-image">
                             <div>
-                                <img src="./assets/Blog-post/blog2.png" class="img" alt="blog1">
+                                <img src="./assets/Blog-post/motivacion.jpg" class="img" alt="blog1">
                             </div>
                             <div class="post-info flex-row">
-                                <span><i class="fas fa-user text-gray"></i>&nbsp;&nbsp;Admin</span>
-                                <span><i class="fas fa-calendar-alt text-gray"></i>&nbsp;&nbsp;January 16, 2019</span>
-                                <span>7 Commets</span>
+                                <span><i class="fas fa-user text-gray"></i>&nbsp;&nbsp;Personal</span>
+                                <span><i class="fas fa-laptop text-gray"></i></span>
+                                <span>Superacion</span>
                             </div>
                         </div>
                         <div class="post-title">
-                            <a href="#">Why should boys have all the fun? it's the women who are making india an
-                                alcohol-loving contry</a>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque voluptas deserunt beatae
-                                adipisci iusto totam placeat corrupti ipsum, tempora magnam incidunt aperiam tenetur a
-                                nobis, voluptate, numquam architecto fugit. Eligendi quidem ipsam ducimus minus magni
-                                illum similique veniam tempore unde?
+                            <a href="#">Motivación</a>
+                            <p>Expandir los conocimientos entre el alumnado del TESE. Ayudar a resolver problemas,
+                                suscitar retos y dar información de logros. Expresar habilidad para alentar.
+                                Generar oportunidades de crecimiento personal y profesional.
                             </p>
-                            <button class="btn post-btn">Read More &nbsp; <i class="fas fa-arrow-right"></i></button>
+                            <button class="btn post-btn">Ver más &nbsp; <i class="fas fa-arrow-right"></i></button>
                         </div>
                     </div>
                     <hr>
                     <div class="post-content" data-aos="zoom-in" data-aos-delay="200">
                         <div class="post-image">
                             <div>
-                                <img src="./assets/Blog-post/blog3.png" class="img" alt="blog1">
+                                <img src="./assets/Blog-post/METODOLOGÍA DE USO POR PROYECTOS.jpg" class="img" alt="blog1">
                             </div>
                             <div class="post-info flex-row">
-                                <span><i class="fas fa-user text-gray"></i>&nbsp;&nbsp;Admin</span>
-                                <span><i class="fas fa-calendar-alt text-gray"></i>&nbsp;&nbsp;January 19, 2019</span>
-                                <span>5 Commets</span>
+                                <span><i class="fas fa-user text-gray"></i>&nbsp;&nbsp;&nbsp;Facilidad</span>
+                                <span><i class="fas fa-file-archive text-gray"></i>&nbsp;</span>
+                                <span> al trabajar</span>
                             </div>
                         </div>
                         <div class="post-title">
-                            <a href="#">New data recording system to better analyse road accidents</a>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque voluptas deserunt beatae
-                                adipisci iusto totam placeat corrupti ipsum, tempora magnam incidunt aperiam tenetur a
-                                nobis, voluptate, numquam architecto fugit. Eligendi quidem ipsam ducimus minus magni
-                                illum similique veniam tempore unde?
+                            <a href="#">METODOLOGÍA DE USO POR PROYECTOS</a>
+                            <p>Implica cambios en la estructura curricular de las instituciones como la flexibilización
+                                de los horarios, la integración de los conceptos de las áreas alrededor del tema elegido
+                                por los estudiantes. Un punto importante de este es que los estudiantes proponen los temas
+                                que quieren aprender sin ninguna restricción.
                             </p>
-                            <button class="btn post-btn">Read More &nbsp; <i class="fas fa-arrow-right"></i></button>
+                            <button class="btn post-btn">Ver más &nbsp; <i class="fas fa-arrow-right"></i></button>
                         </div>
                     </div>
                     <hr>
