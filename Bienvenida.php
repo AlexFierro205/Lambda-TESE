@@ -57,11 +57,11 @@
                 </ul>
             </div>
             <div class="social text-gray">
-                <a href="#"><i class="fab fa-instagram"></i></a>
-                <a href="#"><i class="fab fa-facebook-f"></i></a>
-                <a href="#"><i class="fab fa-instagram"></i></a>
-                <a href="#"><i class="fab fa-twitter"></i></a>
-                <a href="#"><i class="fab fa-youtube"></i></a>
+                <a href="https://www.instagram.com/lambda_tese/"><i class="fab fa-instagram"></i></a>
+                <a href="https://www.facebook.com/Lambda-Club-Campus-TESE-102697152336232"><i class="fab fa-facebook-f"></i></a>
+                <a href="https://www.instagram.com/lambda_tese/"><i class="fab fa-instagram"></i></a>
+                <a href="https://twitter.com/LambdaTese"><i class="fab fa-twitter"></i></a>
+                <a href="https://www.youtube.com/channel/UCmbg8KGKWJpiyn2OHyq2iBg"><i class="fab fa-youtube"></i></a>
                 <a href="https://discord.gg/EDqtgKW4vU"><i class="fab fa-discord"></i></a>
             </div>
         </div>
@@ -289,8 +289,7 @@
                                     <img src="./assets/popular-post/m-blog-1.jpg" class="img" alt="blog1">
                                 </div>
                                 <div class="post-info flex-row">
-                                    <span><i class="fas fa-calendar-alt text-gray"></i>&nbsp;&nbsp;January 14,
-                                        2019</span>
+                                    <span><i class="fas fa-calendar-alt text-gray"></i>&nbsp;&nbsp;January 14 2019</span> 55 55641414
                                     <span>2 Commets</span>
                                 </div>
                             </div>
