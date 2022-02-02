@@ -282,7 +282,7 @@
                         </ul>
                     </div>
                     <div class="popular-post">
-                        <h2>Popular Post</h2>
+                        <h2>Laboratorios</h2>
                         <div class="post-content" data-aos="flip-up" data-aos-delay="200">
                             <div class="post-image">
                                 <div>
@@ -375,6 +375,8 @@
                             <span class="tag" data-aos="flip-up" data-aos-delay="400">UPIITA, IPN</span>
                             <span class="tag" data-aos="flip-up" data-aos-delay="500">UANL</span>
                             <span class="tag" data-aos="flip-up" data-aos-delay="600">ESCOM, IPN</span>
+                            <span class="tag" data-aos="flip-up" data-aos-delay="700">UAM</span>
+                            <span class="tag" data-aos="flip-up" data-aos-delay="800">TecNM</span> 
                         </div>
                     </div>
                 </aside>
