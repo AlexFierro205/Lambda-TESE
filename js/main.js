@@ -42,6 +42,13 @@ $(document).ready(function () {
         }, 1000);
     })
 
+    // click to scroll down
+    $('.move-down a').click(function () {
+        $('html, body').animate({
+            scrollTop: 0
+        }, 1000);
+    })
+
     // AOS Instance
     AOS.init();
 

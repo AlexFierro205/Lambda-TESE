@@ -28,9 +28,9 @@
     <!-- ----------------------------  Navigation ---------------------------------------------- -->
 
     <nav class="nav">
-        <div class="nav-menu flex-row">
+        <div class="nav-menu flex-row" id="INCIO">
             <div class="nav-brand">
-                <a href="Bienvenida.php" class="text-gray">LAMBDA/TESE<i class="far fa-lambda"></i> </a>
+                <a href="Bienvenida.php" class="text-gray">LAMBDA-TESE - <i class="far fa-lambda"></i> </a>
             </div>
             <div class="toggle-collapse">
                 <div class="toggle-icons">
@@ -40,19 +40,16 @@
             <div>
                 <ul class="nav-items">
                     <li class="nav-link">
-                        <a href="#">INICIO</a>
+                        <a href="#INICIO">INICIO</a>
                     </li>
                     <li class="nav-link">
-                        <a href="#">CURSOS</a>
+                        <a href="Cursos.php">CURSOS</a>
                     </li>
                     <li class="nav-link">
-                        <a href="#">ACTIVIDADES</a>
+                        <a href="#Actividades">ACTIVIDADES</a>
                     </li>
                     <li class="nav-link">
-                        <a href="#">Pages</a>
-                    </li>
-                    <li class="nav-link">
-                        <a href="#">Contact Us</a>
+                        <a href="#footer">CONTACTO</a>
                     </li>
                 </ul>
             </div>
@@ -78,7 +75,7 @@
         <section id="INICIO" class="site-title">
             <div class="site-background" data-aos="fade-up" data-aos-delay="100">
                 <h3>Campus TESE</h3>
-                <h1>LAMBDA CLUB<i class="fab fa-lambda"></i></h1>
+                <h1>LAMBDA CLUB - <i class="fab fa-lambda"></i></h1>
                 <button class="btn">Explore</button>
             </div>
         </section>
@@ -248,7 +245,7 @@
                     </div>
                 </div>
                 <aside class="sidebar">
-                    <div class="category">
+                    <div class="category" id="Actividades">
                         <h2>Actividades</h2>
                         <ul class="category-list">
                             <li class="list-items" data-aos="fade-left" data-aos-delay="100">
@@ -391,7 +388,7 @@
 
     <!-- --------------------------- Footer ---------------------------------------- -->
 
-    <footer class="footer">
+    <footer id="footer" class="footer">
         <div class="container">
             <div class="about-us" data-aos="fade-right" data-aos-delay="200">
                 <h2>About us</h2>
