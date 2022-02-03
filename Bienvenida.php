@@ -228,12 +228,16 @@
                         </div>
                         <div class="post-title">
                             <a href="#">¿Que nos interesa del TESE?</a>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque voluptas deserunt beatae
-                                adipisci iusto totam placeat corrupti ipsum, tempora magnam incidunt aperiam tenetur a
-                                nobis, voluptate, numquam architecto fugit. Eligendi quidem ipsam ducimus minus magni
-                                illum similique veniam tempore unde?
-                            </p>
-                            <button class="btn post-btn">Read More &nbsp; <i class="fas fa-arrow-right"></i></button>
+                            <p>Lo que nos importa del TESE es uno de los
+                                principales tecnológicos, en el cual posee
+                                una comunidad de estudiantes de ingeniería,
+                                el cual nos permitirá a que este proyecto
+                                aliente o incentive a todos los ingenieros que
+                                forman a esta casa de estudios, para poder hacer
+                                un trabajo interdisciplinario y poder tener esa
+                                superación personal que todos tenemos, además de
+                                saber aplicar la tecnología sin importar la carrera o
+                                actividad que se ejerza ya sea de manera profesional o personal</p>
                         </div>
                     </div>
                     <div class="pagination flex-row">
@@ -286,72 +290,12 @@
                                     <img src="./assets/popular-post/m-blog-1.jpg" class="img" alt="blog1">
                                 </div>
                                 <div class="post-info flex-row">
-                                    <span><i class="fas fa-calendar-alt text-gray"></i>&nbsp;&nbsp;January 14 2019</span> 55 55641414
-                                    <span>2 Commets</span>
+                                    <span><i class="fas fa-calendar-alt text-gray"></i>&nbsp;&nbsp; #</span>
+                                    <span>#</span>
                                 </div>
                             </div>
                             <div class="post-title">
-                                <a href="#">New data recording system to better analyse road accidents</a>
-                            </div>
-                        </div>
-                        <div class="post-content" data-aos="flip-up" data-aos-delay="300">
-                            <div class="post-image">
-                                <div>
-                                    <img src="./assets/popular-post/m-blog-2.jpg" class="img" alt="blog1">
-                                </div>
-                                <div class="post-info flex-row">
-                                    <span><i class="fas fa-calendar-alt text-gray"></i>&nbsp;&nbsp;January 14,
-                                        2019</span>
-                                    <span>2 Commets</span>
-                                </div>
-                            </div>
-                            <div class="post-title">
-                                <a href="#">New data recording system to better analyse road accidents</a>
-                            </div>
-                        </div>
-                        <div class="post-content" data-aos="flip-up" data-aos-delay="400">
-                            <div class="post-image">
-                                <div>
-                                    <img src="./assets/popular-post/m-blog-3.jpg" class="img" alt="blog1">
-                                </div>
-                                <div class="post-info flex-row">
-                                    <span><i class="fas fa-calendar-alt text-gray"></i>&nbsp;&nbsp;January 14,
-                                        2019</span>
-                                    <span>2 Commets</span>
-                                </div>
-                            </div>
-                            <div class="post-title">
-                                <a href="#">New data recording system to better analyse road accidents</a>
-                            </div>
-                        </div>
-                        <div class="post-content" data-aos="flip-up" data-aos-delay="500">
-                            <div class="post-image">
-                                <div>
-                                    <img src="./assets/popular-post/m-blog-4.jpg" class="img" alt="blog1">
-                                </div>
-                                <div class="post-info flex-row">
-                                    <span><i class="fas fa-calendar-alt text-gray"></i>&nbsp;&nbsp;January 14,
-                                        2019</span>
-                                    <span>2 Commets</span>
-                                </div>
-                            </div>
-                            <div class="post-title">
-                                <a href="#">New data recording system to better analyse road accidents</a>
-                            </div>
-                        </div>
-                        <div class="post-content" data-aos="flip-up" data-aos-delay="600">
-                            <div class="post-image">
-                                <div>
-                                    <img src="./assets/popular-post/m-blog-5.jpg" class="img" alt="blog1">
-                                </div>
-                                <div class="post-info flex-row">
-                                    <span><i class="fas fa-calendar-alt text-gray"></i>&nbsp;&nbsp;January 14,
-                                        2019</span>
-                                    <span>2 Commets</span>
-                                </div>
-                            </div>
-                            <div class="post-title">
-                                <a href="#">New data recording system to better analyse road accidents</a>
+                                <a href="#">#</a>
                             </div>
                         </div>
                     </div>
@@ -372,7 +316,7 @@
                             <span class="tag" data-aos="flip-up" data-aos-delay="500">UANL</span>
                             <span class="tag" data-aos="flip-up" data-aos-delay="600">ESCOM, IPN</span>
                             <span class="tag" data-aos="flip-up" data-aos-delay="700">UAM</span>
-                            <span class="tag" data-aos="flip-up" data-aos-delay="800">TecNM</span> 
+                            <span class="tag" data-aos="flip-up" data-aos-delay="800">TecNM</span>
                         </div>
                     </div>
                 </aside>
@@ -391,38 +335,38 @@
     <footer id="footer" class="footer">
         <div class="container">
             <div class="about-us" data-aos="fade-right" data-aos-delay="200">
-                <h2>About us</h2>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium quia atque nemo ad modi officiis
-                    iure, autem nulla tenetur repellendus.</p>
+                <h2></h2>
+                <p></p>
             </div>
             <div class="newsletter" data-aos="fade-right" data-aos-delay="200">
-                <h2>Newsletter</h2>
-                <p>Stay update with our latest</p>
+                <h2>Comentarios </h2>
+                <p></p>
                 <div class="form-element">
-                    <input type="text" placeholder="Email"><span><i class="fas fa-chevron-right"></i></span>
+                    <input type="text" placeholder=""><span><i class="fas fa-chevron-right"></i></span>
                 </div>
             </div>
             <div class="instagram" data-aos="fade-left" data-aos-delay="200">
-                <h2>Instagram</h2>
+                <h2>Comunidades</h2>
                 <div class="flex-row">
-                    <img src="./assets/instagram/thumb-card3.png" alt="insta1">
-                    <img src="./assets/instagram/thumb-card4.png" alt="insta2">
-                    <img src="./assets/instagram/thumb-card5.png" alt="insta3">
+                    <img src="#" alt="">
+                    <img src="#" alt="">
+                    <img src="#" alt="">
                 </div>
                 <div class="flex-row">
-                    <img src="./assets/instagram/thumb-card6.png" alt="insta4">
-                    <img src="./assets/instagram/thumb-card7.png" alt="insta5">
-                    <img src="./assets/instagram/thumb-card8.png" alt="insta6">
+                    <img src="#" alt="">
+                    <img src="#" alt="">
+                    <img src="#" alt="">
                 </div>
             </div>
             <div class="follow" data-aos="fade-left" data-aos-delay="200">
-                <h2>Follow us</h2>
-                <p>Let us be Social</p>
+                <h2>Siguenos</h2>
+                <p>En nustras Redes Sociales</p>
                 <div>
-                    <i class="fab fa-facebook-f"></i>
-                    <i class="fab fa-twitter"></i>
-                    <i class="fab fa-instagram"></i>
-                    <i class="fab fa-youtube"></i>
+                    <a href="https://www.instagram.com/lambda_tese/"><i class="fab fa-instagram"></i></a>
+                    <a href="https://www.facebook.com/Lambda-Club-Campus-TESE-102697152336232"><i class="fab fa-facebook-f"></i></a>
+                    <a href="https://twitter.com/LambdaTese"><i class="fab fa-twitter"></i></a>
+                    <a href="https://www.youtube.com/channel/UCmbg8KGKWJpiyn2OHyq2iBg"><i class="fab fa-youtube"></i></a>
+                    <a href="https://discord.gg/EDqtgKW4vU"><i class="fab fa-discord"></i></a>
                 </div>
             </div>
         </div>
