@@ -43,7 +43,7 @@
                         <a href="#INICIO">INICIO</a>
                     </li>
                     <li class="nav-link">
-                        <a href="Cursos.php">CURSOS</a>
+                        <a href="#Cursos">CURSOS</a>
                     </li>
                     <li class="nav-link">
                         <a href="#Actividades">ACTIVIDADES</a>
@@ -76,7 +76,7 @@
             <div class="site-background" data-aos="fade-up" data-aos-delay="100">
                 <h3>Campus TESE</h3>
                 <h1>LAMBDA CLUB - <i class="fab fa-lambda"></i></h1>
-                <button class="btn">Explore</button>
+                <button class="btn"><a href="#Explicacion">Explore</a></button>
             </div>
         </section>
 
@@ -164,7 +164,7 @@
                             </div>
                         </div>
                         <div class="post-title">
-                            <a href="#">¿Que es LAMBDA?</a>
+                            <a href="#" id="Explicacion">¿Que es LAMBDA?</a>
                             <p>Este proyecto surge a partir del interés de los estudiantes por tener espacios
                                 en dónde se pueda compartir el conocimiento.
                             </p>
@@ -218,7 +218,7 @@
                     <div class="post-content" data-aos="zoom-in" data-aos-delay="200">
                         <div class="post-image">
                             <div>
-                                <img src="./assets/Blog-post/blog4.png" class="img" alt="blog1">
+                                <img src="./assets/Blog-post/club tese.jpg" class="img" alt="blog1">
                             </div>
                             <div class="post-info flex-row">
                                 <span><i class="fas fa-user text-gray"></i>&nbsp;&nbsp;Admin</span>
