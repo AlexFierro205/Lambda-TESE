@@ -287,11 +287,22 @@
                         <div class="post-content" data-aos="flip-up" data-aos-delay="200">
                             <div class="post-image">
                                 <div>
-                                    <img src="./assets/popular-post/m-blog-1.jpg" class="img" alt="blog1">
+                                    <img src="./assets/popular-post/laboratorio_ESCOM.png" class="img" alt="blog1">
                                 </div>
                                 <div class="post-info flex-row">
-                                    <span><i class="fas fa-calendar-alt text-gray"></i>&nbsp;&nbsp; #</span>
-                                    <span>#</span>
+                                    <span><i class="fas fa-user text-gray"></i>&nbsp;&nbsp; IPN</span>
+                                    <span> ESCOM</span>
+                                </div>
+                            </div>
+                            <div class="post-title">
+                                <a href="#"></a>
+                            </div>
+                            <div class="post-image">
+                                <div>
+                                    <img src="./assets/popular-post/laboratorio_UNAM.png" class="img" alt="blog1">
+                                </div>
+                                <div class="post-info flex-row">
+                                    <span><i class="fas fa-user text-gray"></i>&nbsp;&nbsp; UNAM</span>
                                 </div>
                             </div>
                             <div class="post-title">
@@ -317,6 +328,7 @@
                             <span class="tag" data-aos="flip-up" data-aos-delay="600">ESCOM, IPN</span>
                             <span class="tag" data-aos="flip-up" data-aos-delay="700">UAM</span>
                             <span class="tag" data-aos="flip-up" data-aos-delay="800">TecNM</span>
+                            <span class="tag" data-aos="flip-up" data-aos-delay="900">Tec de Monterrey</span>
                         </div>
                     </div>
                 </aside>
