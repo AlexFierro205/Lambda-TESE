@@ -89,7 +89,7 @@
                 <div class="container">
                     <div id="Cursos" class="owl-carousel owl-theme blog-post">
                         <div class="blog-content" data-aos="fade-right" data-aos-delay="200">
-                            <img src="./assets/Blog-post/Logica y Algoritmos.jpg" alt="post-1">
+                            <img src="./assets/Blog-post/logica & Algoritmo.gif" alt="post-1">
                             <div class="blog-title">
                                 <h3>Logica y Algoritmos</h3>
                                 <button class="btn btn-blog">Explore</button>
@@ -155,7 +155,7 @@
                     <div class="post-content" data-aos="zoom-in" data-aos-delay="200">
                         <div class="post-image">
                             <div>
-                                <img src="./assets/Blog-post/lambda.jfif" class="img" alt="blog1">
+                                <img src="./assets/Blog-post/lambda.png" class="img" alt="blog1">
                             </div>
                             <div class="post-info flex-row">
                                 <span><i class="fas fa-lambda text-gray"></i>&nbsp;&nbsp;LAMBDA</span>
@@ -360,14 +360,17 @@
             <div class="instagram" data-aos="fade-left" data-aos-delay="200">
                 <h2>Comunidades</h2>
                 <div class="flex-row">
-                    <img src="#" alt="">
-                    <img src="#" alt="">
-                    <img src="#" alt="">
+                    <img src="./assets/instagram/1.png" alt="">
+                    <img src="./assets/instagram/2.png" alt="">
+                    <img src="./assets/instagram/3.png" alt="">
                 </div>
                 <div class="flex-row">
-                    <img src="#" alt="">
-                    <img src="#" alt="">
-                    <img src="#" alt="">
+                    <img src="./assets/instagram/4.png" alt="">
+                </div>
+                <div class="flex-row">
+                    <img src="./assets/instagram/5.png" alt="">
+                    <img src="./assets/instagram/6.png" alt="">
+                    <img src="./assets/instagram/7.png" alt="">
                 </div>
             </div>
             <div class="follow" data-aos="fade-left" data-aos-delay="200">
