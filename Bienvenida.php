@@ -303,6 +303,7 @@
                                 </div>
                                 <div class="post-info flex-row">
                                     <span><i class="fas fa-user text-gray"></i>&nbsp;&nbsp; UNAM</span>
+                                    <span>Ciencias</span>
                                 </div>
                             </div>
                             <div class="post-title">
@@ -404,5 +405,4 @@
     <!-- Custom Javascript file -->
     <script src="./js/main.js"></script>
 </body>
-
 </html>
