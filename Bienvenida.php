@@ -248,6 +248,8 @@
                         <a href="#"><i class="fas fa-chevron-right"></i></a>
                     </div>
                 </div>
+                <!------->
+         
                 <aside class="sidebar">
                     <div class="category" id="Actividades">
                         <h2>Actividades</h2>
@@ -307,15 +309,8 @@
                                 </div>
                             </div>
                             <div class="post-title">
-                                <a href="#">#</a>
+                                <a href="#"></a>
                             </div>
-                        </div>
-                    </div>
-                    <div class="newsletter" data-aos="fade-up" data-aos-delay="300">
-                        <h2>Newsletter</h2>
-                        <div class="form-element">
-                            <input type="text" class="input-element" placeholder="Email">
-                            <button class="btn form-btn">Subscribe</button>
                         </div>
                     </div>
                     <div class="popular-tags">
@@ -337,11 +332,8 @@
         </section>
 
         <!-- -----------x---------- Site Content -------------x------------>
-
     </main>
-
     <!---------------x------------- Main Site Section ---------------x-------------->
-
 
     <!-- --------------------------- Footer ---------------------------------------- -->
 
